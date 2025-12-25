@@ -21,7 +21,7 @@
 
 ## 📦 Installation
 
-1. Clone the repository:
+ RUN APPLICATION:
    ```bash
    git clone <your-repository-url>
    cd backend
