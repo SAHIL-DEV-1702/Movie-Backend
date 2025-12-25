@@ -31,8 +31,9 @@ MongoDb should be running locally
    npm run dev
 ```
 
-REGISTER ADMIN USER USING BACKEND API
 
+REGISTER ADMIN USER USING BACKEND API
+ ```bash
    curl --location 'http://localhost:8000/auth/admin/register' \
 --header 'Content-Type: application/json' \
 --data-raw '{
@@ -41,4 +42,4 @@ REGISTER ADMIN USER USING BACKEND API
       "password":"SAHiL@1111", 
       "secretKey":"adminSecret"
 }'
-   
+   ```
