@@ -8,7 +8,7 @@
 - Password hashing using bcrypt
 - Environment variable management with dotenv
 - CORS enabled
-- Hot-reloading during development with Nodemon
+  
 
 ##  Tech Stack
 
@@ -17,8 +17,7 @@
 - **MongoDB / Mongoose**
 - **JWT (jsonwebtoken)**
 - **bcrypt**
-- **dotenv**
-- **cors**
+
 
 ## 📦 Installation
 
@@ -26,3 +25,6 @@
    ```bash
    git clone <your-repository-url>
    cd backend
+   npm i
+   npm run dev
+   
