@@ -23,7 +23,7 @@
 
  RUN APPLICATION:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/SAHIL-DEV-1702/Movie-Backend.git
    cd backend
    npm i
    npm run dev
